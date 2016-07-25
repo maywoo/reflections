@@ -1,0 +1,30 @@
+
+*** 
+How did viewing a diff between two versions of a file help you see the bugg that was introduced?
+
+Honestly, it was really difficult to spot the bug using diff because I couldn't tell where one version started and ended.  I ended up using a different diff tool
+
+***
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros are that your history will be more logical and easily readable.
+The cons - not having a backed up copy if something unexpected happens that causes you to lose work (i.e. computer or app crashes)
+
+***
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because a change can involve multiple files.  
+
+***
+How can you use the commands git log and git diff to view the history of files?
+
+git log will show commit history of a repository
+git diff will show differences between 2 commits
+
+***
+How might using version control make you more confident to make changes that could break something?
+
+Because it allows me to go back to a previous state if the change I made breaks something
+
+
+
